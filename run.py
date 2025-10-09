@@ -1,2 +1,2 @@
-from page import aprov
+from battle import aprov
 aprov()
